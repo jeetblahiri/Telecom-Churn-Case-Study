@@ -93,10 +93,12 @@ In this case, since you are working over a four-month window, the first two mont
  
 
 Data dictionary
-The dataset can be download using this link. The data dictionary is provided for download below.
+The dataset can be download using this link: 
 
-Data Dictionary - Telecom Churn
-Download
+https://drive.google.com/file/d/1SWnADIda31mVFevFcfkGtcgBHTKKI94J/view
+
+The data dictionary is provided in the file.
+
 The data dictionary contains meanings of abbreviations. Some frequent ones are loc (local), IC (incoming), OG (outgoing), T2T (telecom operator to telecom operator), T2O (telecom operator to another operator), RECH (recharge) etc.
 
  
