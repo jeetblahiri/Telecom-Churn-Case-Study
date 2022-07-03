@@ -193,3 +193,10 @@ After identifying important predictors, display them visually - you can use plot
  
 
 Finally, recommend strategies to manage customer churn based on your observations.
+
+
+
+
+By
+Jeet B Lahiri &
+Pinal Gajjar
